@@ -66,6 +66,156 @@ body {
 }
 
 
+  #wrapper {
+
+    width: 80%;
+    height: 40%;
+    margin: 0 auto;
+
+}
+
+  article {
+
+  box-sizing: border-box;
+  float:left;
+  height: 100%;
+  padding: 2%;
+  text-align: center;
+  height: 250px;
+
+}
+
+  #columna1 {
+
+    width: 33.3%;
+    background-color: #D5C75F;
+
+}
+
+  #columna2 {
+
+    width: 33.3%;
+    background-color: #D5C75F;
+
+}
+
+
+  #columna3 {
+
+    width: 33.3%;
+    background-color: #D5C75F;
+
+}
+
+  #columna4 {
+
+    width: 33.3%;
+    background-color: #D5C75F;
+
+}
+
+  #columna5 {
+
+    width: 33.3%;
+    background-color: #D5C75F;
+
+}
+
+  #columna6 {
+
+    width: 33.3%;
+    background-color: #D5C75F;
+
+}
+
+  .img_retrato {
+
+    width: 95%;
+
+}
+
+footer {
+
+  height: 200px;
+
+}
+
+
+#wrapper2 {
+
+  width: 80%;
+  margin: 0 auto;
+
+
+
+}
+
+#contacto {
+
+  background-color: #C6D5C5;
+  width: 25%;
+  height: 300px;
+  border-radius: 0px 0px 0px 10px;
+
+}
+
+h3 {
+
+    text-align: left;
+    font-size: 25px;
+
+  }
+
+.info_contacto {
+
+  color: black;
+  text-decoration: none;
+  position: relative;
+  font-size: 16px;
+  bottom: 18px;
+  text-align: left;
+  font-weight: bold;
+
+
+}
+
+#terminos {
+
+  background-color: #C6D5C5;
+  width: 25%;
+  height: 300px;
+
+}
+
+#redes_sociales {
+
+  background-color: #C6D5C5;
+  width: 30%;
+  height: 300px;
+
+}
+
+
+.img_redes {
+
+  width: 10%;
+  height: 5%;
+
+}
+
+#derechos {
+
+  background-color: #C6D5C5;
+  width: 20%;
+  border-radius: 0px 0px 10px 0px;
+  height: 300px;
+
+}
+
+
+}
+
+
 }
 
 
@@ -114,6 +264,3 @@ body {
   text-align: center;
 
   }
-
-
- }

@@ -272,8 +272,8 @@ body {
 
   }
 
-  article
-{
+  article {
+
   box-sizing: border-box;
   float:left;
   height: 100%;
@@ -327,7 +327,6 @@ body {
 
   	width: 100%;
     background-color: #D5C75F;
-    height: 250px;
 
   	}
 
