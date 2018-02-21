@@ -101,6 +101,7 @@ body {
 
 }
 
+
 	#columna2
 	{
 	background-color: #D5C75F;
@@ -115,6 +116,13 @@ body {
     position: relative;
     top: 40px;
     box-shadow: 2px 2px #02010A;
+
+}
+
+img[alt="retratos"]:hover {
+
+  transform: translate(5px, -20px);
+  box-shadow: 2px 2px #82C3A6;
 
 }
 
@@ -142,6 +150,13 @@ body {
     position: relative;
     top: 40px;
     box-shadow: 2px 2px #02010A;
+
+}
+
+img[alt="paisajes"]:hover {
+
+  transform: rotate(10deg);
+  box-shadow: 2px 2px #82C3A6;
 
 }
 
