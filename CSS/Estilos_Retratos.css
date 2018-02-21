@@ -134,6 +134,27 @@ body {
 
 }
 
+#columna1>img {
+
+  -webkit-filter: blur(10px);
+  filter: blur(10px);
+
+}
+
+.escala_grises {
+
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+
+}
+
+#columna3>img {
+
+  -webkit-filter: sepia(90%);
+  filter: sepia(90%);
+
+}
+
 footer {
 
   height: 200px;
@@ -331,6 +352,26 @@ h3 {
 
   }
 
+  #columna1>img {
+
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+
+  }
+
+  .escala_grises {
+
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+
+  }
+
+  #columna3>img {
+
+    -webkit-filter: sepia(90%);
+    filter: sepia(90%);
+
+  }
 
 
   #wrapper2 {

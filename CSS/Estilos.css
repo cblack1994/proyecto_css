@@ -338,6 +338,15 @@ img[alt="paisajes"]:hover {
 
   }
 
+  img[alt="paisajes"]:hover {
+
+    transform: rotate(10deg);
+    box-shadow: 2px 2px #82C3A6;
+
+  }
+
+
+
   	#columna3 {
 
   	width: 100%;
@@ -353,16 +362,23 @@ img[alt="paisajes"]:hover {
       box-shadow: 2px 2px #02010A;
 }
 
-      p {
+img[alt="retratos"]:hover {
 
-        color: black;
-        text-align: center;
-        position: relative;
-        top: -10px;
-        font-size: 25px;
-        text-decoration: underline ;
+  transform: translate(5px, -20px);
+  box-shadow: 2px 2px #82C3A6;
 
-      }
+}
+
+    p {
+
+      color: black;
+      text-align: center;
+      position: relative;
+      top: -10px;
+      font-size: 25px;
+      text-decoration: underline ;
+
+    }
 
       #wrapper2 {
 
