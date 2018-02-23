@@ -1,14 +1,14 @@
 
-@font-face {
+  @font-face {
 
-font-family: 'DancingScript';
-src: url('DancingScript-Regular.otf');
+   font-family: 'DancingScript';
+   src: url('DancingScript-Regular.otf');
 
 }
 
-body {
+  body {
 
- font-family: 'DancingScript';
+    font-family: 'DancingScript';
 
 }
 
@@ -63,6 +63,29 @@ body {
   border-radius: 10px 10px 0px 0px;
   justify-content: space-between;
   align-items: center;
+  animation: slidein 1s;
+
+}
+
+@-webkit-keyframes slidein {
+
+  0% {
+
+    margin-top: 150%;
+
+  }
+
+  60% {
+
+    margin-top: -5%;
+
+  }
+
+  100% {
+
+    margin-top: 0%;
+
+  }
 
 }
 
@@ -284,6 +307,29 @@ img[alt="paisajes"]:hover {
   margin: 0 auto;
   border-radius: 10px 10px 0px 0px;
   text-align: center;
+  animation: slidein 1s;
+
+  }
+
+  @-webkit-keyframes slidein {
+
+    0% {
+
+      margin-top: 150%;
+
+    }
+
+    60% {
+
+      margin-top: -5%;
+
+    }
+
+    100% {
+
+      margin-top: 0%;
+
+    }
 
   }
 
